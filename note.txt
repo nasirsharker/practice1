@@ -1,0 +1,17 @@
+html intro
+  project folder
+  file+folder
+  text editor
+  html template
+  run html
+
+  html
+  version control
+   revise: bug fix, delete, add modify
+content 
+     h1-h6, p, a = link = internal = external 
+
+ element, tag, atribute
+ seo
+ file formation
+ 
